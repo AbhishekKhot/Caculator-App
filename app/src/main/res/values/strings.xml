@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="equal">=</string>
+    <string name="dotchar">.</string>
+    <string name="bzero">0</string>
+    <string name="pluschar">+</string>
+    <string name="bthree">3</string>
+    <string name="btwo">2</string>
+    <string name="bone">1</string>
+    <string name="minuschar">-</string>
+    <string name="bsix">6</string>
+    <string name="bfive">5</string>
+    <string name="bfour">4</string>
+    <string name="multiplaychar">×</string>
+    <string name="bnine">9</string>
+    <string name="beight">8</string>
+    <string name="bseven">7</string>
+    <string name="divisionchar">÷</string>
+    <string name="rightbracketchar">)</string>
+    <string name="leftbracketchar">(</string>
+    <string name="clearchar">C</string>
+</resources>
